@@ -22,5 +22,18 @@ START PROJECT:
   
     7- 
       Add in app/setting.py inside INSTALLED_APP YOUR APP
+
+
+
+EXTENSIONS VSCODE:
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
+https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django
+
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
+
+https://marketplace.visualstudio.com/items?itemName=brainfit.vscode-importmagic
+
     
   
