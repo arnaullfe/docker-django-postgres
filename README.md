@@ -21,6 +21,6 @@ START PROJECT:
       python manage.py startapp api
   
     7- 
-        Add in app/setting.py inside INSTALLED_APP YOUR APP
+      Add in app/setting.py inside INSTALLED_APP YOUR APP
     
   
